@@ -1,1 +1,2 @@
 echo hello, $USER
+date
