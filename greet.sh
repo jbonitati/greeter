@@ -1,2 +1,2 @@
 echo hello, $USER
-date
+date -u
